@@ -218,12 +218,12 @@ myProjects:
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
       url: http://github.com/axh2018/hexo-theme-template
       desc: 博客模板，开箱即用
-    java-webdemo:
+    opensourse-blog:
       icon: fas fa-database
       iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
       url: http://github.com/axh2018/hexo-theme-template
       desc: 博客模板，开箱即用
-    douyin-helper:
+    opensourse-blog:
       icon: fas fa-cog
       iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
       url: http://github.com/axh2018/hexo-theme-template
